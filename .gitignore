@@ -1,0 +1,5 @@
+#Python class files are ignored
+src/*.pyc
+
+#Data files are ignored
+dat/*
