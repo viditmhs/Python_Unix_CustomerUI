@@ -1,0 +1,12 @@
+#############################################################
+#                     Python Project Document               #
+#############################################################
+
+Date: 19-May-2015
+- Created a python class customer which can perform following
+  tasks
+-- 1: Retrieve customer data from txt file
+-- 2: Add new data to existing data
+-- 3: Save new data to same file
+
+
